@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\c\u002B\u002B projects\\Semenchenko_lab_3_OC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D0244-A85D-4890-A7A7-938EBF2053DE}|Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC.vcxproj|D:\\Programming\\c\u002B\u002B projects\\Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC\\Unit_Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5D0244-A85D-4890-A7A7-938EBF2053DE}|Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC.vcxproj|solutionrelative:Semenchenko_lab_3_OC\\Unit_Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D0244-A85D-4890-A7A7-938EBF2053DE}|Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC.vcxproj|D:\\Programming\\c\u002B\u002B projects\\Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5D0244-A85D-4890-A7A7-938EBF2053DE}|Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC.vcxproj|solutionrelative:Semenchenko_lab_3_OC\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Programming\\c\u002B\u002B projects\\Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC\\Source.cpp",
+              "RelativeDocumentMoniker": "Semenchenko_lab_3_OC\\Source.cpp",
+              "ToolTip": "D:\\Programming\\c\u002B\u002B projects\\Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC\\Source.cpp",
+              "RelativeToolTip": "Semenchenko_lab_3_OC\\Source.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T19:32:43.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit_Tests.cpp",
+              "DocumentMoniker": "D:\\Programming\\c\u002B\u002B projects\\Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC\\Unit_Tests.cpp",
+              "RelativeDocumentMoniker": "Semenchenko_lab_3_OC\\Unit_Tests.cpp",
+              "ToolTip": "D:\\Programming\\c\u002B\u002B projects\\Semenchenko_lab_3_OC\\Semenchenko_lab_3_OC\\Unit_Tests.cpp",
+              "RelativeToolTip": "Semenchenko_lab_3_OC\\Unit_Tests.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T18:06:08.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
